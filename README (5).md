@@ -38,7 +38,7 @@ Proyek ini mengikuti langkah-langkah standar dalam sebuah proyek Data Science:
 Untuk menjalankan proyek ini di lingkungan Anda sendiri, ikuti langkah-langkah berikut: 
 
 1. **Clone repositori ini:** 
-	```bash git clone  	https://github.com/[NAMA_USER_GITHUB]/[NAMA_REPO_LO].git cd [NAMA_REPO_LO] ```  
+	```bash git clone  	https://github.com/raihan1999/fraud-detection-ml.git cd fraud-detection-ml ```  
 
 2. **Install dependensi yang dibutuhkan:** 
 	```bash pip install -r requirements.txt ```  
